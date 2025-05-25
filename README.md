@@ -62,3 +62,33 @@ Enter your guess: 63
 Your score: 10
 
 Do you want to play again? (yes/no): yes
+
+## 🎬 Demo Video
+📺 [Watch Demo on YouTube](https://www.youtube.com/your-demo-link-here)
+
+---
+
+## ✅ Outcome
+A functional and interactive train reservation system that uses Java’s OOP and collection concepts. It improves logical thinking and real-world implementation of user-based ticket management systems.
+
+---
+
+## 🔗 GitHub Repository
+📂 [GitHub – OIBSIP_JavaDevelopment_Task1](https://github.com/yourusername/OIBSIP_JavaDevelopment_Task1)
+
+---
+## 💼 LinkedIn Post
+🔗 [View LinkedIn Post](https://www.linkedin.com/in/your-linkedin-post-here)
+
+---
+🌱 Future Enhancements
+🔐 Add user login and store high scores
+
+📈 Show leaderboard with top scores
+
+🎚️ Add difficulty levels (Easy, Medium, Hard)
+
+💡 Provide range-based hints
+
+
+
