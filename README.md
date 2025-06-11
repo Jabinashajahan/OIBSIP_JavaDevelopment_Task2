@@ -74,7 +74,7 @@ A functional and interactive train reservation system that uses Java’s OOP and
 ---
 
 ## 🔗 GitHub Repository
-📂 [GitHub – OIBSIP_JavaDevelopment_Task1](https://github.com/Jabinashajahan/OIBSIP_JavaDevelopment_Task2.git)
+📂 [GitHub – OIBSIP_JavaDevelopment_Task2](https://github.com/Jabinashajahan/OIBSIP_JavaDevelopment_Task2.git)
 
 ---
 ## 💼 LinkedIn Post
