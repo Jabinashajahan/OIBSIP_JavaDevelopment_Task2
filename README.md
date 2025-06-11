@@ -64,7 +64,7 @@ Your score: 10
 Do you want to play again? (yes/no): yes
 
 ## 🎬 Demo Video
-📺 [Watch Demo on YouTube](https://www.youtube.com/your-demo-link-here)
+📺 [Watch Demo on YouTube](https://youtu.be/Xhs_-1tgIUY)
 
 ---
 
@@ -74,11 +74,11 @@ A functional and interactive train reservation system that uses Java’s OOP and
 ---
 
 ## 🔗 GitHub Repository
-📂 [GitHub – OIBSIP_JavaDevelopment_Task1](https://github.com/yourusername/OIBSIP_JavaDevelopment_Task1)
+📂 [GitHub – OIBSIP_JavaDevelopment_Task1](https://github.com/Jabinashajahan/OIBSIP_JavaDevelopment_Task2.git)
 
 ---
 ## 💼 LinkedIn Post
-🔗 [View LinkedIn Post](https://www.linkedin.com/in/your-linkedin-post-here)
+🔗 [View LinkedIn Post](https://www.linkedin.com/posts/jabinashajahan_oibsip-task2-javadevelopment-activity-7332463988364001284-vG2Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwlJWQBrrVRyb-KEVvIFvk6qd9bXG6DgAY)
 
 ---
 🌱 Future Enhancements
